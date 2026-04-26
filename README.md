@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @saugatbry
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Google 😂
-- 📫 How to reach me saugii650@gmail.com
-- 😄 Pronouns: Ntg
-- ⚡ Fun fact: I'm a  14 year old boy 💀
+im 16 and learning some tuf type shi idk if that's what i wanna do but i like it 
+checkot my website 
+https://saugatbry.online
 
 <!---
 saugatbry/saugatbry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
